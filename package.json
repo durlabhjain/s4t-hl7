@@ -3,6 +3,10 @@
 	"displayName": "s4t-hl7",
 	"description": "HL7 parser",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/durlabhjain/s4t-hl7.git"
+	},
 	"engines": {
 		"vscode": "^1.62.0"
 	},
