@@ -2,6 +2,12 @@
 
 All notable changes to the "s4t-hl7" extension will be documented in this file.
 
+## [0.0.2] - 15-Nov-2021
+
+- Features
+Added HL7: Tokenize Document option in editor context menu
+
+
 ## [0.0.1] - 12-Nov-2021
 
 - Initial release

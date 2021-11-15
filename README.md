@@ -14,6 +14,10 @@ Extension currently offers 2 features
 
 ## Release Notes
 
+### 0.0.2
+
+Added HL7: Tokenize Document option in editor context menu
+
 ### 0.0.1
 
 Initial release with minor modifications for vscode-hl7

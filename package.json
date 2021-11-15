@@ -27,6 +27,11 @@
 					"command": "s4t-hl7.tokenizeHl7Line",
 					"title": "HL7: Tokenize Line",
 					"when": "editorTextFocus"
+				},
+				{
+					"command": "s4t-hl7.tokenizeHl7Document",
+					"title": "HL7: Tokenize Document",
+					"when": "editorTextFocus"
 				}
 			]
 		},
